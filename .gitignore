@@ -5,3 +5,4 @@ reports/*.json
 reports/*.md
 data/documents/*
 !data/documents/.gitkeep
+data/laporan-tahunan-bpbd-provinsi-dki-jakarta-tahun-2024.pdf
