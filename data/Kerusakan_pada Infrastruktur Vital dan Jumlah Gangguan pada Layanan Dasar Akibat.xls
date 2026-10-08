@@ -1,0 +1,45 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+  </head >
+  <body>
+    
+    <table>
+      <thead>
+        <tr><th><b>periode_data</b></th><th><b>wilayah</b></th><th><b>jenis_bencana</b></th><th><b>jenis_infrastruktur</b></th><th><b>jumlah</b></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>2025</td><td>KAB. ADM. KEP. SERIBU</td><td>KEJADIAN LUAR BIASA</td><td>RUMAH IBADAH (MAJLIS TALIM AT-TAUBAH PULAU PANGGANG)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBAKARAN</td><td>FASILITAS UMUM (BANGUNAN SEKOLAH TK RA. QURROTA AYUN ( LT. 2 RUANGAN TEMPAT TINGGAL PEMILIK ))</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBAKARAN</td><td>FASILITAS UMUM (SEKOLAH (RUANG LABORATORIUM))</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>POHON TUMBANG</td><td>FASILITAS UMUM (AKSES JALAN)</td><td>3</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>POHON TUMBANG</td><td>FASILITAS UMUM (AKSES JALAN TERGANGGU)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>POHON TUMBANG</td><td>FASILITAS UMUM (ATAP SEKOLAH)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>POHON TUMBANG</td><td>FASILITAS UMUM (RUAS JALAN)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>TANAH LONGSOR</td><td>FASILITAS UMUM (JALAN YANG RUSAK)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEJADIAN LUAR BIASA</td><td>FASILITAS UMUM (TEMBOK SEKOLAH)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEBAKARAN</td><td>FASILITAS UMUM (SEKOLAH SMPN 216)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>POHON TUMBANG</td><td>FASILITAS UMUM (RUAS JALAN)</td><td>2</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAKARAN</td><td>FASILITAS UMUM (GEDUNG SEKOLAH (RUANG LAB ELEKTRO & RUANG LAB KOMPUTER))</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAKARAN</td><td>RUMAH IBADAH (AULA MASJID AL KAROMAH)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>POHON TUMBANG</td><td>FASILITAS UMUM (AKSES JALAN)</td><td>5</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TANAH LONGSOR</td><td>FASILITAS UMUM (AKSES JALAN WARGA)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TANAH LONGSOR</td><td>FASILITAS UMUM (JALAN UMUM)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TANAH LONGSOR</td><td>RUMAH IBADAH (MUSHOLA)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KEBAKARAN</td><td>FASILITAS UMUM (KANTIN SEKOLAH SMP 188)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KEBAKARAN</td><td>RUMAH IBADAH (BANGUNAN MASJID SEKOLAH)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>POHON TUMBANG</td><td>FASILITAS UMUM (AKSES JALAN)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>POHON TUMBANG</td><td>FASILITAS UMUM (AKSES JALAN SEMPAT TERGANGGU)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>POHON TUMBANG</td><td>FASILITAS UMUM (ATAP SEKOLAH)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>ANGIN KENCANG</td><td>FASILITAS UMUM (KANOPI & AKSES JALAN TOL)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>TANAH LONGSOR</td><td>FASILITAS UMUM (AKSES JALAN)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>KEBAKARAN</td><td>RUMAH IBADAH (MUSHOLA)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>POHON TUMBANG</td><td>FASILITAS UMUM (AKSES JALAN)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>POHON TUMBANG</td><td>FASILITAS UMUM (AKSES JALAN TERGANGGU)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>POHON TUMBANG</td><td>FASILITAS UMUM (KABEL PLN DAN AKSES JALAN)</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>KEJADIAN LUAR BIASA</td><td>FASILITAS UMUM (BANGUNAN SEKOLAH)</td><td>1</td></tr>
+      </tbody>
+    </table>
+  
+  </body>
+</html >

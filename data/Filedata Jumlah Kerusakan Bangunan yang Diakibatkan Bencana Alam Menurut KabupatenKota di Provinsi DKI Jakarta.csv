@@ -1,0 +1,73 @@
+﻿periode_data,wilayah,jenis_bencana,jumlah_kejadian_bencana,jumlah_bangunan_rusak
+2019,"Jakarta Barat","Angin Kencang",2,7
+2019,"Jakarta Pusat","Angin Kencang",1,37
+2019,"Jakarta Selatan","Pohon Tumbang",47,1
+2019,"Jakarta Selatan","Tanah Longsor",1,1
+2019,"Jakarta Selatan","Angin Kencang",1,2
+2019,"Jakarta Timur","Pohon Tumbang",32,1
+2019,"Jakarta Timur","Tanah Longsor",1,1
+2019,"Jakarta Utara","Angin Kencang",2,1
+2020,"Jakarta Pusat","Angin Kencang",1,149
+2020,"Jakarta Selatan","Tanah Longsor",10,303
+2020,"Jakarta Timur","Tanah Longsor",7,6
+2020,"Jakarta Utara","Pohon Tumbang",12,1
+2020,"Jakarta Utara","Angin Kencang",1,1
+2021,"Jakarta Barat","Pohon Tumbang",27,3
+2021,"Jakarta Pusat","Pohon Tumbang",26,1
+2021,"Jakarta Selatan","Pohon Tumbang",56,8
+2021,"Jakarta Selatan","Tanah Longsor",7,12
+2021,"Jakarta Timur","Pohon Tumbang",36,1
+2021,"Jakarta Timur","Tanah Longsor",5,8
+2021,"Jakarta Timur","Angin Kencang",1,2
+2021,"Jakarta Utara","Pohon Tumbang",12,1
+2021,"Jakarta Utara","Angin Kencang",1,118
+2022,"Jakarta Barat","Pohon Tumbang",39,7
+2022,"Jakarta Pusat","Pohon Tumbang",28,3
+2022,"Jakarta Selatan","Tanah Longsor",11,11
+2022,"Jakarta Selatan","Angin Kencang",6,49
+2022,"Jakarta Selatan","Pohon Tumbang",146,27
+2022,"Jakarta Timur","Tanah Longsor",3,5
+2022,"Jakarta Timur","Angin Kencang",5,63
+2022,"Jakarta Timur","Pohon Tumbang",132,18
+2022,"Jakarta Utara","Pohon Tumbang",29,1
+2022,"Jakarta Utara","Angin Kencang",1,3
+2022,"Kepulauan Seribu","Angin Kencang",1,1
+2023,"Jakarta Barat","Tanah Longsor",3,4
+2023,"Jakarta Barat","Pohon Tumbang",39,7
+2023,"Jakarta Pusat","Pohon Tumbang",20,1
+2023,"Jakarta Selatan","Angin Kencang",3,3
+2023,"Jakarta Selatan","Tanah Longsor",16,7
+2023,"Jakarta Selatan","Pohon Tumbang",101,23
+2023,"Jakarta Timur","Tanah Longsor",3,1
+2023,"Jakarta Timur","Pohon Tumbang",37,4
+2023,"Jakarta Utara","Pohon Tumbang",36,3
+2024,"KAB. ADM. KEP. SERIBU",Banjir,12,0
+2024,"KAB. ADM. KEP. SERIBU","Pohon Tumbang",2,0
+2024,"KAB. ADM. KEP. SERIBU","Angin Kencang",2," 1 Rumah Tinggal, 2 Rumah Tinggal"
+2024,"KOTA ADM. JAKARTA BARAT",Banjir,109,0
+2024,"KOTA ADM. JAKARTA BARAT","Pohon Tumbang",85," 1  Atap Rumah, 1 Halaman Rumah, 1 Jalan, 1 Jalan Raya, 1 Kabel listrik , 1 Kabel PJU, 1 Kabel PLN, 1 Kabel Telkom , 1 Kabel Udara, 1 Kantin (Bagian Atap), 1 Mobil, 1 Mobil APV (kaca), 1 Mobil Rusak Ringan, 1 Mobil sedan, 1 Motor, 1 Pagar Besi Pembatas TOL, 1 Ruko, 1 Rumah Kosong, 1 Steam kendaraan, 1 Unit Motor, 1 Warung, 2 Mobil, 3 Kontrakan, 3 Kontrakan Semi Permanen, 4 Rumah Tinggal"
+2024,"KOTA ADM. JAKARTA PUSAT","Pohon Tumbang",59," 1 Atap Halte Busway, 1 CCTV Jalan, 1 Kabel Optik, 1 Kabel PJU , 1 Kabel PLN, 1 Kabel Udara, 1 Lampu Jalan, 1 Lampu Taman Pecah, 1 Mobil, 1 Mobil Box, 1 Motor, 1 Pagar parkiran, 1 Plafon Kafe, 1 Pohon, 1 Tiang CCTV Patah , 1 Unit Mobil, 1 Unit Motor, 2 Rumah Tinggal, 2 sepeda motor"
+2024,"KOTA ADM. JAKARTA SELATAN",Banjir,152,0
+2024,"KOTA ADM. JAKARTA SELATAN","Pohon Tumbang",170," 1  Atap Rumah, 1  Bajaj, 1 1 Kabel PLN, 1 Atap, 1 Atap Depan ( Teras ), 1 Atap Kaca Rumah , 1 Atap Lapak Dagang Warga, 1 Atap Masjid, 1 Atap Mobil, 1 Atap Parkiran, 1 Atap Rumah, 1 Atap Rumah, Ruang tamu, dan kamar tidur, 1 Atap Warteg Basani, 1 Atap Warung, 1 Atap Wisma UDDP PMI Pusat, 1 Bedeng, 1 Garasi, 1 Garasi (Atap), 1 Garasi Mobil, 1 Gerobak Minuman, 1 Kabel, 1 Kabel Commuter Line, 1 Kabel Listrik, 1 Kabel Optik, 1 Kabel PLN, 1 Kabel Telkom, 1 Kabel Udara, 1 Kanopi Tempat Parkir, 1 Kendaraan Roda 2 , 1 Kendaraan Roda Dua, 1 Kendaraan Roda Empat, 1 Lampu Jalan, 1 Lampu Penerangan Jalan, 1 Lampu PJU, 1 Mobil, 1 Mobil Avanza, 1 Mobil Pajero, 1 Pagar Halaman Kantor Global Promosi Sukses, 1 Pagar Pembatas Tenis Lapangan, 1 Pagar Rumah, 1 Pagar Rumah Warga, 1 Parkiran Pasar, 1 PJU, 1 pohon , 1 Pohon tumbang, 1 Rambu - Rambu Evakuasi Banjir BPBD, 1 Rumah Kontrakan (Atap), 1 Rumah Kontrakan 2 Pintu, 1 Rumah Tinggal, 1 Rumah Tinggal (Atap dan Dapur), 1 Rumah Tinggal (Atap), 1 Rumah Tinggal (Kamar Mandi), 1 Tiang Penjaga Basket, 1 Toko Burung, 1 Turap Kali, 1 Unit Mobil, 1 warung, 2  Motor, 2 Gerobak, 2 Kabel, 2 Mobil, 2 Motor, 2 Rumah Kontrakan, 2 Rumah Tinggal, 9 Unit Motor Rusak Ringan"
+2024,"KOTA ADM. JAKARTA SELATAN","Angin Kencang",8," 1 Atap Rumah Tinggal, 1 Kabel PLN, 1 Kanopi, 1 Klinik Khafi Medika (Atap), 1 Mobil, 1 Reklame Toko, 1 Rumah Tinggal (Atap), 2 Seng, 3 Rumah Tinggal , 5 Rumah Tinggal, 7 Rumah Tinggal (Atap)"
+2024,"KOTA ADM. JAKARTA TIMUR",Banjir,120,0
+2024,"KOTA ADM. JAKARTA TIMUR","Pohon Tumbang",66," 1  Genteng Kantor Sekretariat RW, 1  Tiang Listrik, 1 Atap Rumah, 1 Atap Sekolah, 1 Bengkel Motor, 1 Kaabel Listrik, 1 Kabel Listrik, 1 Kabel Optik, 1 Kabel PJU, 1 Kabel PLN, 1 Kabel PLN dan Tiang, 1 Kabel Udara, 1 Kabel Wifi, 1 Kanopi Ruko Vape Store, 1 Kios Es Kelapa, 1 Lampu PJU, 1 Lapak, 1 Lapak Barang Bekas, 1 Mobil, 1 Pagar Rumah , 1 Pagar Sekolah, 1 Papan Reklame bengkel, 1 Pohon , 1 Ruko, 1 Rumah  (Asbes atap rumah bagian kamar), 1 Rumah (Atap), 1 Rumah Tinggal, 1 Tembok Pembatas Jalan, 1 Unit Mobil, 1 Unit Motor, 2 Mobil, 3 Rumah Tinggal, 4 Motor, 4 Rumah Kontrakan"
+2024,"KOTA ADM. JAKARTA TIMUR","Angin Kencang",5," 1 Atap Rumah, 1 Pohon Tumbang, 1 Rumah Tinggal, 7 Rumah Tinggal, 8 Rumah Tinggal, 15 Rumah Tinggal"
+2024,"KOTA ADM. JAKARTA UTARA",Banjir,107,0
+2024,"KOTA ADM. JAKARTA UTARA","Pohon Tumbang",53," 1 Asbes gudang kayu, 1 Atap Masjid, 1 Gudang Rumah, 1 Kabel Listrik, 1 Kabel PLN, 1 Kabel Udara, 1 Mobil, 1 Mobil Satpol PP, 1 Pagar, 1 Pagar Lapangan, 1 Ruko, 1 Rumah Tinggal, 1 Tiang PLN, 1 Toko Tanaman, 2 Rumah Tinggal, 3 Atap Rumah tinggal"
+2025,"KAB. ADM. KEP. SERIBU",BANJIR,29,0
+2025,"KAB. ADM. KEP. SERIBU","POHON TUMBANG",6," 1 ATAP RUMAH, 1 PAGAR RUMAH, 1 RUMAH TINGGAL, 1 RUMAH TINGGAL (ASBES), 3 KIOS, 9 RUMAH TINGGAL"
+2025,"KAB. ADM. KEP. SERIBU","ANGIN KENCANG",1," 10 RUMAH TINGGAL"
+2025,"KOTA ADM. JAKARTA BARAT",BANJIR,111,0
+2025,"KOTA ADM. JAKARTA BARAT","POHON TUMBANG",81," 1 AKSES JALAN, 1 AKSES JALAN TERGANGGU, 1 ATAP KANTIN SDL AL-FALAH, 1 ATAP RUMAH, 1 ATAP RUMAH TINGGAL, 1 ATAP SEKOLAH, 1 DAPUR RUMAH KONTRAKAN, 1 KABEL , 1 KABEL LISTRIK, 1 KABEL OPTIK, 1 KABEL PJU, 1 KABEL PLN, 1 KABEL TELKOM, 1 KABEL UDARA, 1 KALI KRENDANG, 1 KANOPI, 1 MOBIL, 1 MOTOR, 1 RAMBU STOP JAKLINGKO, 1 RUAS JALAN, 1 RUMAH MAKAN, 1 RUMAH TINGGAL, 1 SEPEDA MOTOR, 1 TEMPAT PEMBUANGAN SAMPAH SEMENTARA, 1 UNIT MOBIL, 1 WARUNG, 1 WARUNG TENDA PECEL LELE, 3 RUKO"
+2025,"KOTA ADM. JAKARTA BARAT","ANGIN KENCANG",5," 1 ATAP TK AN.NAHL, 1 PAPAN REKLAME ROBOH, 8 RUMAH TINGGAL, 18 RUMAH TINGGAL, 20 RUMAH TINGGAL"
+2025,"KOTA ADM. JAKARTA PUSAT",BANJIR,6,0
+2025,"KOTA ADM. JAKARTA PUSAT","POHON TUMBANG",42," 1 - GERBANG UTAMA KANTOR WALIKOTA KOTA JAKARTA PUSAT, 1 ATAP MOBIL BOX, 1 BAJAI, 1 HALTE BUSWAY, 1 JALUR BUSWAY, 1 KABEL, 1 KABEL  PLN, 1 KABEL INTERNET, 1 KABEL LISTRIK, 1 KABEL LISTRIK PENERANGAN, 1 KABEL OPTIK, 1 KABEL PLN, 1 KABEL UDARA, 1 LAMPU PJU, 1 MOBIL AVANZA, 1 MOBIL TRUCK, 1 PAGAR, 1 PLANG JALAN DINAS BINA MARGA, 1 RUMAH TINGGAL, 1 TIANG LAMPU PENERANGAN JALAN, 1 TRUCK, 2 MOBIL, 2 RUAS JALAN, 2 TAKSI, 3 MOBIL, 3 MOTOR"
+2025,"KOTA ADM. JAKARTA SELATAN",BANJIR,160," 1 TURAP/TANGGUL PHB GG SAIMAN BOCOR "
+2025,"KOTA ADM. JAKARTA SELATAN","POHON TUMBANG",90," 0 N.A, 1 AKSES JALAN, 1 ATAP STASIUN MRT SENAYAN, 1 ATAP WARUNG KELONTONG, 1 GAPURA AKSES MASUK PERUMAHAN ASTORIA RESIDENC, 1 GARASI MOBIL, 1 GEROBAK LISTRIK KOPI, 1 GEROBAK PEDAGANG, 1 KABEL OPTIK, 1 KABEL OPTIK DAN KABEL LISTRIK, 1 KABEL PLN, 1 KABEL UDARA, 1 KEDAI KOPI, 1 KIOS, 1 MOBIL, 1 MOBIL ANGKUTAN, 1 MOTOR, 1 RUMAH TINGGAL, 1 RUMAH TINGGAL BAGIAN ATAP, 1 TEMPAT SERVIS TV, 1 TERTUTUP ALIRAN KALI PHB, 1 TIANG LISTRIK, 1 TIANG LISTRIK/KABEL PLN, 1 TOKO LAUNDRY, 1 TOKO TERPAL, 1 UNIT GEROBAK BAKSO, 1 UNIT MOBIL, 1 UNIT MOBIL TOYOTA LEXUS, 1 WARTEG, 1 WARUNG KOPI, 1 WARUNG MADURA, 1 WARUNG NASI GORENG, 2 ATAP RUMAH, 2 MOBIL, 2 MOTOR, 2 TOKO BUNGAN, 4 RUMAH TINGGAL, 5 MOBIL"
+2025,"KOTA ADM. JAKARTA TIMUR",BANJIR,111,0
+2025,"KOTA ADM. JAKARTA TIMUR","POHON TUMBANG",100," 1 AKSES JALAN, 1 AKSES JALAN SEMPAT TERGANGGU, 1 ATAP BALAI WARGA, 1 ATAP KANTOR, 1 ATAP RUKO, 1 ATAP SEKOLAH, 1 ATAP WARUNG, 1 DAPUR, 1 FASILITAS RPTRA, 1 GAPURA, 1 GEROBAK, 1 GUDANG SDI CILILITAN II, 1 KABEL, 1 KABEL FIBER OPTIK, 1 KABEL INTERNET, 1 KABEL LISTRIK, 1 KABEL PJU, 1 KABEL PLN, 1 KABEL UDARA, 1 KANDANG KAMBING, 1 KANOPI (TEMPAT USAHA), 1 KANOPI RUMAH, 1 KANOPI TOKO, 1 MOBIL, 1 MOBIL TAKSI, 1 MOTOR, 1 POS WARGA, 1 RUKO, 1 RUMAH TINGGAL, 1 RUMAH TINGGAL (KANOPI), 1 TEMBOK BELAKANG RUMAH, 1 TENDA UMKM, 1 TERAS RUMAH, 1 TIANG LISTRIK, 1 UNIT MOTOR, 1 WARUNG, 2  ATAP BANGUNAN, 2 KIOS  WARUNG, 2 MOBIL, 2 MOTOR, 2 RUKO, 3 KONTRAKAN, 3 MOBIL, 3 MOTOR, 3 RUMAH KONTRAKAN"
+2025,"KOTA ADM. JAKARTA TIMUR","ANGIN KENCANG",5," 1 KANOPI & AKSES JALAN TOL, 1 RUMAH TINGGAL, 2 ATAP RUMAH, 3 RUMAH TINGGAL, 5 RUMAH TINGGAL"
+2025,"KOTA ADM. JAKARTA UTARA",BANJIR,79,0
+2025,"KOTA ADM. JAKARTA UTARA","POHON TUMBANG",38," 1  LAMPU PJU, 1 AKSES JALAN, 1 AKSES JALAN TERGANGGU, 1 ATAP BENGKEL, 1 KABEL LISTRIK, 1 KABEL PLN, 1 KABEL PLN DAN AKSES JALAN, 1 KABEL UDARA, 1 MOBIL, 1 MOBIL RONGSOK, 1 RESTORAN, 1 RUKO, 1 RUMAH TINGGAL, 1 UNIT MOBIL HONDA BRIO, 1 WARUNG PECEL LELE"
+2025,"KOTA ADM. JAKARTA UTARA","ANGIN KENCANG",1," 2 LAHAN PARKIR, 10 MOBIL, 38 RUMAH TINGGAL"

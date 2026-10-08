@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+  </head >
+  <body>
+    
+    <table>
+      <thead>
+        <tr><th><b>periode_data</b></th><th><b>wilayah</b></th><th><b>jenis_bencana</b></th><th><b>jumlah_pengungsi</b></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>BANJIR</td><td>1213</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBAKARAN</td><td>1881</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEJADIAN LUAR BIASA</td><td>12</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEBAKARAN</td><td>2037</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>BANJIR</td><td>294</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAKARAN</td><td>3342</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TANAH LONGSOR</td><td>30</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEJADIAN LUAR BIASA</td><td>7</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>BANJIR</td><td>339</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KEBAKARAN</td><td>667</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>BANJIR</td><td>122</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>KEBAKARAN</td><td>688</td></tr>
+      </tbody>
+    </table>
+  
+  </body>
+</html >

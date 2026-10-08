@@ -1,0 +1,46 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+  </head >
+  <body>
+    
+    <table>
+      <thead>
+        <tr><th><b>periode_data</b></th><th><b>wilayah</b></th><th><b>jenis_bencana</b></th><th><b>jumlah_kejadian_bencana</b></th><th><b>jumlah_korban_meninggal</b></th><th><b>jumlah_korban_luka_luka</b></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>2024</td><td>KAB. ADM. KEP. SERIBU</td><td>BANJIR</td><td>12</td><td>0</td><td>0</td></tr>
+        <tr><td>2024</td><td>KAB. ADM. KEP. SERIBU</td><td>POHON TUMBANG</td><td>2</td><td>0</td><td>0</td></tr>
+        <tr><td>2024</td><td>KAB. ADM. KEP. SERIBU</td><td>ANGIN KENCANG</td><td>2</td><td>0</td><td>0</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>BANJIR</td><td>109</td><td>0</td><td>0</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA BARAT</td><td>POHON TUMBANG</td><td>85</td><td>0</td><td>3</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA PUSAT</td><td>POHON TUMBANG</td><td>59</td><td>0</td><td>1</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>BANJIR</td><td>152</td><td>0</td><td>0</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>POHON TUMBANG</td><td>170</td><td>0</td><td>5</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA SELATAN</td><td>ANGIN KENCANG</td><td>8</td><td>0</td><td>0</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>BANJIR</td><td>120</td><td>0</td><td>0</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>POHON TUMBANG</td><td>66</td><td>0</td><td>2</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA TIMUR</td><td>ANGIN KENCANG</td><td>5</td><td>0</td><td>1</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>BANJIR</td><td>107</td><td>0</td><td>0</td></tr>
+        <tr><td>2024</td><td>KOTA ADM. JAKARTA UTARA</td><td>POHON TUMBANG</td><td>53</td><td>0</td><td>0</td></tr>
+        <tr><td>2025</td><td>KAB. ADM. KEP. SERIBU</td><td>BANJIR</td><td>29</td><td>0</td><td>0</td></tr>
+        <tr><td>2025</td><td>KAB. ADM. KEP. SERIBU</td><td>POHON TUMBANG</td><td>6</td><td>0</td><td>0</td></tr>
+        <tr><td>2025</td><td>KAB. ADM. KEP. SERIBU</td><td>ANGIN KENCANG</td><td>1</td><td>0</td><td>0</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>BANJIR</td><td>111</td><td>0</td><td>0</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>POHON TUMBANG</td><td>81</td><td>0</td><td>4</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>ANGIN KENCANG</td><td>5</td><td>0</td><td>3</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>BANJIR</td><td>6</td><td>0</td><td>0</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA PUSAT</td><td>POHON TUMBANG</td><td>42</td><td>0</td><td>5</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>BANJIR</td><td>160</td><td>1</td><td>0</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA SELATAN</td><td>POHON TUMBANG</td><td>90</td><td>2</td><td>11</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>BANJIR</td><td>111</td><td>0</td><td>0</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>POHON TUMBANG</td><td>100</td><td>0</td><td>1</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>ANGIN KENCANG</td><td>5</td><td>0</td><td>0</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>BANJIR</td><td>79</td><td>0</td><td>0</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>POHON TUMBANG</td><td>38</td><td>0</td><td>2</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA UTARA</td><td>ANGIN KENCANG</td><td>1</td><td>0</td><td>0</td></tr>
+      </tbody>
+    </table>
+  
+  </body>
+</html >

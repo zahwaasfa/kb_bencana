@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+  </head >
+  <body>
+    
+    <table>
+      <thead>
+        <tr><th><b>periode_data</b></th><th><b>triwulan</b></th><th><b>wilayah</b></th><th><b>jenis_bencana</b></th><th><b>jenis_korban</b></th><th><b>jumlah_korban</b></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>2022</td><td>I</td><td>JAKARTA BARAT</td><td>POHON TUMBANG</td><td>LUKA-LUKA</td><td>1</td></tr>
+        <tr><td>2022</td><td>I</td><td>JAKARTA BARAT</td><td>POHON TUMBANG</td><td>MENINGGAL</td><td>1</td></tr>
+        <tr><td>2022</td><td>I</td><td>JAKARTA SELATAN</td><td>POHON TUMBANG</td><td>LUKA-LUKA</td><td>1</td></tr>
+        <tr><td>2022</td><td>I</td><td>JAKARTA TIMUR</td><td>ANGIN KENCANG</td><td>LUKA-LUKA</td><td>10</td></tr>
+        <tr><td>2022</td><td>II</td><td>JAKARTA TIMUR</td><td>POHON TUMBANG</td><td>LUKA-LUKA</td><td>1</td></tr>
+        <tr><td>2022</td><td>III</td><td>JAKARTA SELATAN</td><td>POHON TUMBANG</td><td>LUKA-LUKA</td><td>5</td></tr>
+        <tr><td>2022</td><td>IV</td><td>JAKARTA PUSAT</td><td>POHON TUMBANG</td><td>LUKA-LUKA</td><td>6</td></tr>
+        <tr><td>2022</td><td>IV</td><td>JAKARTA SELATAN</td><td>BANJIR</td><td>MENINGGAL</td><td>1</td></tr>
+        <tr><td>2022</td><td>IV</td><td>JAKARTA SELATAN</td><td>TANAH LONGSOR</td><td>LUKA-LUKA</td><td>1</td></tr>
+        <tr><td>2023</td><td>I</td><td>JAKARTA PUSAT</td><td>POHON TUMBANG</td><td>LUKA-LUKA</td><td>1</td></tr>
+        <tr><td>2023</td><td>I</td><td>JAKARTA UTARA</td><td>POHON TUMBANG</td><td>LUKA-LUKA</td><td>3</td></tr>
+        <tr><td>2023</td><td>I</td><td>JAKARTA SELATAN</td><td>POHON TUMBANG</td><td>LUKA-LUKA</td><td>1</td></tr>
+        <tr><td>2023</td><td>III</td><td>JAKARTA TIMUR</td><td>POHON TUMBANG</td><td>LUKA-LUKA</td><td>1</td></tr>
+        <tr><td>2023</td><td>III</td><td>JAKARTA TIMUR</td><td>TANAH LONGSOR</td><td>LUKA-LUKA</td><td>2</td></tr>
+        <tr><td>2023</td><td>III</td><td>JAKARTA TIMUR</td><td>TANAH LONGSOR</td><td>MENINGGAL</td><td>1</td></tr>
+        <tr><td>2023</td><td>IV</td><td>JAKARTA PUSAT</td><td>POHON TUMBANG</td><td>LUKA-LUKA</td><td>2</td></tr>
+        <tr><td>2023</td><td>IV</td><td>JAKARTA UTARA</td><td>POHON TUMBANG</td><td>LUKA-LUKA</td><td>1</td></tr>
+      </tbody>
+    </table>
+  
+  </body>
+</html >

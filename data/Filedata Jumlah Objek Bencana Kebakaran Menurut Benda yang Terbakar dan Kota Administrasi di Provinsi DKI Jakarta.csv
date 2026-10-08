@@ -1,0 +1,133 @@
+﻿periode_data,wilayah,benda_yang_terbakar,jumlah
+2021,"Jakarta Pusat","Bangunan Perumahan",78
+2021,"Jakarta Pusat","Bangunan Umum dan Perdagangan",35
+2021,"Jakarta Pusat","Bangunan Industri",0
+2021,"Jakarta Pusat",Kendaraan,7
+2021,"Jakarta Pusat","Instalasi Luar Gedung",56
+2021,"Jakarta Pusat",Tumbuhan,10
+2021,"Jakarta Pusat",Lapak,1
+2021,"Jakarta Pusat",Sampah,13
+2021,"Jakarta Pusat",Lainnya,10
+2021,"Jakarta Utara","Bangunan Perumahan",87
+2021,"Jakarta Utara","Bangunan Umum dan Perdagangan",40
+2021,"Jakarta Utara","Bangunan Industri",4
+2021,"Jakarta Utara",Kendaraan,19
+2021,"Jakarta Utara","Instalasi Luar Gedung",33
+2021,"Jakarta Utara",Tumbuhan,12
+2021,"Jakarta Utara",Lapak,3
+2021,"Jakarta Utara",Sampah,17
+2021,"Jakarta Utara",Lainnya,11
+2021,"Jakarta Barat","Bangunan Perumahan",103
+2021,"Jakarta Barat","Bangunan Umum dan Perdagangan",74
+2021,"Jakarta Barat","Bangunan Industri",8
+2021,"Jakarta Barat",Kendaraan,11
+2021,"Jakarta Barat","Instalasi Luar Gedung",91
+2021,"Jakarta Barat",Tumbuhan,7
+2021,"Jakarta Barat",Lapak,0
+2021,"Jakarta Barat",Sampah,21
+2021,"Jakarta Barat",Lainnya,7
+2021,"Jakarta Selatan","Bangunan Perumahan",132
+2021,"Jakarta Selatan","Bangunan Umum dan Perdagangan",54
+2021,"Jakarta Selatan","Bangunan Industri",1
+2021,"Jakarta Selatan",Kendaraan,33
+2021,"Jakarta Selatan","Instalasi Luar Gedung",185
+2021,"Jakarta Selatan",Tumbuhan,4
+2021,"Jakarta Selatan",Lapak,6
+2021,"Jakarta Selatan",Sampah,18
+2021,"Jakarta Selatan",Lainnya,13
+2021,"Jakarta Timur","Bangunan Perumahan",116
+2021,"Jakarta Timur","Bangunan Umum dan Perdagangan",71
+2021,"Jakarta Timur","Bangunan Industri",3
+2021,"Jakarta Timur",Kendaraan,32
+2021,"Jakarta Timur","Instalasi Luar Gedung",66
+2021,"Jakarta Timur",Tumbuhan,9
+2021,"Jakarta Timur",Lapak,8
+2021,"Jakarta Timur",Sampah,20
+2021,"Jakarta Timur",Lainnya,6
+2022,"Jakarta Pusat","Bangunan Perumahan",64
+2022,"Jakarta Pusat","Bangunan Umum dan Perdagangan",52
+2022,"Jakarta Pusat","Instalasi Luar Gedung",64
+2022,"Jakarta Pusat",Kendaraan,12
+2022,"Jakarta Pusat",Lain-Lain,17
+2022,"Jakarta Pusat",Lapak,1
+2022,"Jakarta Pusat",Sampah,7
+2022,"Jakarta Pusat",Tumbuhan,5
+2022,"Jakarta Utara","Bangunan Industri",9
+2022,"Jakarta Utara","Bangunan Perumahan",87
+2022,"Jakarta Utara","Bangunan Umum dan Perdagangan",33
+2022,"Jakarta Utara","Instalasi Luar Gedung",18
+2022,"Jakarta Utara",Kendaraan,34
+2022,"Jakarta Utara",Lain-Lain,40
+2022,"Jakarta Utara",Sampah,11
+2022,"Jakarta Utara",Tumbuhan,14
+2022,"Jakarta Barat","Bangunan Industri",4
+2022,"Jakarta Barat","Bangunan Perumahan",120
+2022,"Jakarta Barat","Bangunan Umum dan Perdagangan",61
+2022,"Jakarta Barat","Instalasi Luar Gedung",114
+2022,"Jakarta Barat",Kendaraan,17
+2022,"Jakarta Barat",Lain-Lain,31
+2022,"Jakarta Barat",Lapak,9
+2022,"Jakarta Barat",Sampah,21
+2022,"Jakarta Barat",Tumbuhan,5
+2022,"Jakarta Selatan","Bangunan Industri",2
+2022,"Jakarta Selatan","Bangunan Perumahan",113
+2022,"Jakarta Selatan","Bangunan Umum dan Perdagangan",58
+2022,"Jakarta Selatan","Instalasi Luar Gedung",237
+2022,"Jakarta Selatan",Kendaraan,22
+2022,"Jakarta Selatan",Lain-Lain,44
+2022,"Jakarta Selatan",Lapak,5
+2022,"Jakarta Selatan",Sampah,9
+2022,"Jakarta Selatan",Tumbuhan,2
+2022,"Jakarta Timur","Bangunan Industri",3
+2022,"Jakarta Timur","Bangunan Perumahan",135
+2022,"Jakarta Timur","Bangunan Umum dan Perdagangan",55
+2022,"Jakarta Timur","Instalasi Luar Gedung",81
+2022,"Jakarta Timur",Kendaraan,18
+2022,"Jakarta Timur",Lain-Lain,15
+2022,"Jakarta Timur",Lapak,7
+2022,"Jakarta Timur",Sampah,22
+2022,"Jakarta Timur",Tumbuhan,13
+2023,"Jakarta Pusat","Bangunan Perumahan",96
+2023,"Jakarta Pusat","Bangunan Umum, Perdagangan",50
+2023,"Jakarta Pusat","Instalasi Luar Gedung",46
+2023,"Jakarta Pusat",Kendaraan,8
+2023,"Jakarta Pusat",Lain-Lain,27
+2023,"Jakarta Pusat",Lapak,2
+2023,"Jakarta Pusat",Sampah,15
+2023,"Jakarta Pusat",Tumbuhan,12
+2023,"Jakarta Utara","Bangunan Industri",17
+2023,"Jakarta Utara","Bangunan Perumahan",117
+2023,"Jakarta Utara","Bangunan Umum, Perdagangan",52
+2023,"Jakarta Utara","Instalasi Luar Gedung",35
+2023,"Jakarta Utara",Kendaraan,25
+2023,"Jakarta Utara",Lain-Lain,24
+2023,"Jakarta Utara",Lapak,7
+2023,"Jakarta Utara",Sampah,49
+2023,"Jakarta Utara",Tumbuhan,53
+2023,"Jakarta Barat","Bangunan Industri",9
+2023,"Jakarta Barat","Bangunan Perumahan",128
+2023,"Jakarta Barat","Bangunan Umum, Perdagangan",89
+2023,"Jakarta Barat","Instalasi Luar Gedung",97
+2023,"Jakarta Barat",Kendaraan,27
+2023,"Jakarta Barat",Lain-Lain,31
+2023,"Jakarta Barat",Lapak,13
+2023,"Jakarta Barat",Sampah,51
+2023,"Jakarta Barat",Tumbuhan,39
+2023,"Jakarta Selatan","Bangunan Industri",1
+2023,"Jakarta Selatan","Bangunan Perumahan",129
+2023,"Jakarta Selatan","Bangunan Umum, Perdagangan",72
+2023,"Jakarta Selatan","Instalasi Luar Gedung",218
+2023,"Jakarta Selatan",Kendaraan,28
+2023,"Jakarta Selatan",Lain-Lain,35
+2023,"Jakarta Selatan",Lapak,4
+2023,"Jakarta Selatan",Sampah,60
+2023,"Jakarta Selatan",Tumbuhan,26
+2023,"Jakarta Timur","Bangunan Industri",5
+2023,"Jakarta Timur","Bangunan Perumahan",167
+2023,"Jakarta Timur","Bangunan Umum, Perdagangan",78
+2023,"Jakarta Timur","Instalasi Luar Gedung",84
+2023,"Jakarta Timur",Kendaraan,30
+2023,"Jakarta Timur",Lain-Lain,39
+2023,"Jakarta Timur",Lapak,14
+2023,"Jakarta Timur",Sampah,92
+2023,"Jakarta Timur",Tumbuhan,85

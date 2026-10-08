@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+  </head >
+  <body>
+    
+    <table>
+      <thead>
+        <tr><th><b>periode_data</b></th><th><b>jenis_bencana</b></th><th><b>nilai_kerugian</b></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>2024</td><td>ANGIN KENCANG</td><td>566500000</td></tr>
+        <tr><td>2024</td><td>POHON TUMBANG</td><td>1734600000</td></tr>
+        <tr><td>2024</td><td>TANAH LONGSOR</td><td>323000000</td></tr>
+        <tr><td>2024</td><td>BANJIR</td><td>8413000000</td></tr>
+        <tr><td>2025</td><td>BANJIR</td><td>38025785394</td></tr>
+        <tr><td>2025</td><td>KEBAKARAN</td><td>64307180999</td></tr>
+        <tr><td>2025</td><td>KONFLIK SOSIAL</td><td>4595294474437</td></tr>
+      </tbody>
+    </table>
+  
+  </body>
+</html >

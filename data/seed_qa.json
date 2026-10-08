@@ -1,0 +1,1805 @@
+[
+  {
+    "category": "identitas",
+    "question": "Apa format, kategori, dan tahun data dataset \"Data Kejadian Bencana Banjir Tahun 2024\"?",
+    "answer": "Dataset \"Data Kejadian Bencana Banjir Tahun 2024\" berformat Excel, kategori Data Kejadian (sub-kategori Banjir), tahun data 2024, wilayah Provinsi DKJ, diterbitkan oleh BPBD Provinsi DKJ. Sifat data: Terbuka.",
+    "cites": [
+      {
+        "doc_id": "DOC-017",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q001",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "deskripsi",
+    "question": "Apa isi dataset \"Data Kejadian Bencana Banjir Tahun 2024\"?",
+    "answer": "Data kejadian bencana banjir di Provinsi DKJ tahun 2024. Dataset tabular kejadian banjir per wilayah administratif.",
+    "cites": [
+      {
+        "doc_id": "DOC-017",
+        "section": "deskripsi",
+        "item": null
+      }
+    ],
+    "question_id": "Q002",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "satuan",
+    "question": "Apa satuan dan jenis tabulasi dataset \"Data Kejadian Bencana Banjir Tahun 2024\"?",
+    "answer": "Satuan: kejadian / gangguan; jenis tabulasi: Tabel Agregat Kejadian Bencana.",
+    "cites": [
+      {
+        "doc_id": "DOC-017",
+        "section": "cakupan",
+        "item": null
+      }
+    ],
+    "question_id": "Q003",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "wilayah",
+    "question": "Wilayah mana yang dicakup dataset \"Data Kejadian Bencana Banjir Tahun 2024\"?",
+    "answer": "Provinsi DKJ",
+    "cites": [
+      {
+        "doc_id": "DOC-017",
+        "section": "cakupan",
+        "item": null
+      }
+    ],
+    "question_id": "Q004",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "sumber",
+    "question": "Siapa penerbit dan apa sumber data \"Data Kejadian Bencana Banjir Tahun 2024\"?",
+    "answer": "Penerbit: BPBD Provinsi DKJ; sumber: BPBD Provinsi DKJ / Satu Data Jakarta.",
+    "cites": [
+      {
+        "doc_id": "DOC-017",
+        "section": "sumber",
+        "item": null
+      }
+    ],
+    "question_id": "Q005",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "pembaruan",
+    "question": "Kapan dataset \"Data Kejadian Bencana Banjir Tahun 2024\" diperbarui?",
+    "answer": "Metadata diperbarui 2026-04-17; data diperbarui 2026-04-09.",
+    "cites": [
+      {
+        "doc_id": "DOC-017",
+        "section": "pembaruan",
+        "item": null
+      }
+    ],
+    "question_id": "Q006",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "bencana",
+    "question": "Jenis bencana apa yang tercakup dalam \"Data Kejadian Bencana Banjir Tahun 2024\"?",
+    "answer": "Banjir",
+    "cites": [
+      {
+        "doc_id": "DOC-017",
+        "section": "bencana",
+        "item": null
+      }
+    ],
+    "question_id": "Q007",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "tag",
+    "question": "Apa kata kunci dataset \"Data Kejadian Bencana Banjir Tahun 2024\"?",
+    "answer": "bencana, dkj, bpbd, 2024, data kejadian, banjir",
+    "cites": [
+      {
+        "doc_id": "DOC-017",
+        "section": "tag",
+        "item": null
+      }
+    ],
+    "question_id": "Q008",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "identitas",
+    "question": "Apa format, kategori, dan tahun data dataset \"Data Kejadian Bencana Kebakaran di Provinsi DKJ Tahun 2024\"?",
+    "answer": "Dataset \"Data Kejadian Bencana Kebakaran di Provinsi DKJ Tahun 2024\" berformat CSV, kategori Data Kejadian (sub-kategori Kebakaran), tahun data 2024, wilayah Provinsi DKJ, diterbitkan oleh BPBD Provinsi DKJ. Sifat data: Terbuka.",
+    "cites": [
+      {
+        "doc_id": "DOC-021",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q009",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "deskripsi",
+    "question": "Apa isi dataset \"Data Kejadian Bencana Kebakaran di Provinsi DKJ Tahun 2024\"?",
+    "answer": "Data kejadian bencana kebakaran di Provinsi DKJ tahun 2024. Dataset tabular jumlah dan detail kejadian kebakaran per wilayah.",
+    "cites": [
+      {
+        "doc_id": "DOC-021",
+        "section": "deskripsi",
+        "item": null
+      }
+    ],
+    "question_id": "Q010",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "satuan",
+    "question": "Apa satuan dan jenis tabulasi dataset \"Data Kejadian Bencana Kebakaran di Provinsi DKJ Tahun 2024\"?",
+    "answer": "Satuan: kejadian / gangguan; jenis tabulasi: Tabel Agregat Kejadian Bencana.",
+    "cites": [
+      {
+        "doc_id": "DOC-021",
+        "section": "cakupan",
+        "item": null
+      }
+    ],
+    "question_id": "Q011",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "wilayah",
+    "question": "Wilayah mana yang dicakup dataset \"Data Kejadian Bencana Kebakaran di Provinsi DKJ Tahun 2024\"?",
+    "answer": "Provinsi DKJ",
+    "cites": [
+      {
+        "doc_id": "DOC-021",
+        "section": "cakupan",
+        "item": null
+      }
+    ],
+    "question_id": "Q012",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "sumber",
+    "question": "Siapa penerbit dan apa sumber data \"Data Kejadian Bencana Kebakaran di Provinsi DKJ Tahun 2024\"?",
+    "answer": "Penerbit: BPBD Provinsi DKJ; sumber: BPBD Provinsi DKJ / Satu Data Jakarta.",
+    "cites": [
+      {
+        "doc_id": "DOC-021",
+        "section": "sumber",
+        "item": null
+      }
+    ],
+    "question_id": "Q013",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "pembaruan",
+    "question": "Kapan dataset \"Data Kejadian Bencana Kebakaran di Provinsi DKJ Tahun 2024\" diperbarui?",
+    "answer": "Metadata diperbarui 2026-04-17; data diperbarui 2026-04-09.",
+    "cites": [
+      {
+        "doc_id": "DOC-021",
+        "section": "pembaruan",
+        "item": null
+      }
+    ],
+    "question_id": "Q014",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "bencana",
+    "question": "Jenis bencana apa yang tercakup dalam \"Data Kejadian Bencana Kebakaran di Provinsi DKJ Tahun 2024\"?",
+    "answer": "Kebakaran",
+    "cites": [
+      {
+        "doc_id": "DOC-021",
+        "section": "bencana",
+        "item": null
+      }
+    ],
+    "question_id": "Q015",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "tag",
+    "question": "Apa kata kunci dataset \"Data Kejadian Bencana Kebakaran di Provinsi DKJ Tahun 2024\"?",
+    "answer": "bencana, dkj, bpbd, 2024, data kejadian, kebakaran",
+    "cites": [
+      {
+        "doc_id": "DOC-021",
+        "section": "tag",
+        "item": null
+      }
+    ],
+    "question_id": "Q016",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "identitas",
+    "question": "Apa format, kategori, dan tahun data dataset \"Kerusakan pada Infrastruktur Vital dan Jumlah Gangguan pada Layanan Dasar Akibat Bencana\"?",
+    "answer": "Dataset \"Kerusakan pada Infrastruktur Vital dan Jumlah Gangguan pada Layanan Dasar Akibat Bencana\" berformat CSV, kategori Data Dampak (sub-kategori Kerusakan & Kerugian), tahun data Multi-tahun, wilayah Provinsi DKJ, diterbitkan oleh BPBD Provinsi DKJ. Sifat data: Terbuka.",
+    "cites": [
+      {
+        "doc_id": "DOC-047",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q017",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "deskripsi",
+    "question": "Apa isi dataset \"Kerusakan pada Infrastruktur Vital dan Jumlah Gangguan pada Layanan Dasar Akibat Bencana\"?",
+    "answer": "Data kerusakan dan/atau kerugian nominal akibat bencana di Provinsi DKJ. Dataset dampak fisik dan ekonomi bencana.",
+    "cites": [
+      {
+        "doc_id": "DOC-047",
+        "section": "deskripsi",
+        "item": null
+      }
+    ],
+    "question_id": "Q018",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "satuan",
+    "question": "Apa satuan dan jenis tabulasi dataset \"Kerusakan pada Infrastruktur Vital dan Jumlah Gangguan pada Layanan Dasar Akibat Bencana\"?",
+    "answer": "Satuan: unit; jenis tabulasi: Tabel Inventaris Fisik / Kerusakan Aset.",
+    "cites": [
+      {
+        "doc_id": "DOC-047",
+        "section": "cakupan",
+        "item": null
+      }
+    ],
+    "question_id": "Q019",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "wilayah",
+    "question": "Wilayah mana yang dicakup dataset \"Kerusakan pada Infrastruktur Vital dan Jumlah Gangguan pada Layanan Dasar Akibat Bencana\"?",
+    "answer": "Provinsi DKJ",
+    "cites": [
+      {
+        "doc_id": "DOC-047",
+        "section": "cakupan",
+        "item": null
+      }
+    ],
+    "question_id": "Q020",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "sumber",
+    "question": "Siapa penerbit dan apa sumber data \"Kerusakan pada Infrastruktur Vital dan Jumlah Gangguan pada Layanan Dasar Akibat Bencana\"?",
+    "answer": "Penerbit: BPBD Provinsi DKJ; sumber: BPBD Provinsi DKJ / Satu Data Jakarta.",
+    "cites": [
+      {
+        "doc_id": "DOC-047",
+        "section": "sumber",
+        "item": null
+      }
+    ],
+    "question_id": "Q021",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "pembaruan",
+    "question": "Kapan dataset \"Kerusakan pada Infrastruktur Vital dan Jumlah Gangguan pada Layanan Dasar Akibat Bencana\" diperbarui?",
+    "answer": "Metadata diperbarui 2026-04-17; data diperbarui 2026-04-09.",
+    "cites": [
+      {
+        "doc_id": "DOC-047",
+        "section": "pembaruan",
+        "item": null
+      }
+    ],
+    "question_id": "Q022",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "infrastruktur",
+    "question": "Infrastruktur atau aset apa yang dicatat pada \"Kerusakan pada Infrastruktur Vital dan Jumlah Gangguan pada Layanan Dasar Akibat Bencana\"?",
+    "answer": "Infrastruktur Vital",
+    "cites": [
+      {
+        "doc_id": "DOC-047",
+        "section": "infrastruktur",
+        "item": null
+      }
+    ],
+    "question_id": "Q023",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "tag",
+    "question": "Apa kata kunci dataset \"Kerusakan pada Infrastruktur Vital dan Jumlah Gangguan pada Layanan Dasar Akibat Bencana\"?",
+    "answer": "bencana, dkj, bpbd, data dampak, kerusakan & kerugian",
+    "cites": [
+      {
+        "doc_id": "DOC-047",
+        "section": "tag",
+        "item": null
+      }
+    ],
+    "question_id": "Q024",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "identitas",
+    "question": "Apa format, kategori, dan tahun data dataset \"Jumlah Korban Mengungsi Akibat Bencana\"?",
+    "answer": "Dataset \"Jumlah Korban Mengungsi Akibat Bencana\" berformat CSV, kategori Data Dampak (sub-kategori Korban & Pengungsi), tahun data Multi-tahun, wilayah Provinsi DKJ, diterbitkan oleh BPBD Provinsi DKJ. Sifat data: Terbuka.",
+    "cites": [
+      {
+        "doc_id": "DOC-043",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q025",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "deskripsi",
+    "question": "Apa isi dataset \"Jumlah Korban Mengungsi Akibat Bencana\"?",
+    "answer": "Data jumlah korban dan/atau pengungsi akibat bencana di Provinsi DKJ. Dataset dampak kemanusiaan bencana per wilayah.",
+    "cites": [
+      {
+        "doc_id": "DOC-043",
+        "section": "deskripsi",
+        "item": null
+      }
+    ],
+    "question_id": "Q026",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "satuan",
+    "question": "Apa satuan dan jenis tabulasi dataset \"Jumlah Korban Mengungsi Akibat Bencana\"?",
+    "answer": "Satuan: jiwa / orang; jenis tabulasi: Tabel Demografi Dampak Manusia.",
+    "cites": [
+      {
+        "doc_id": "DOC-043",
+        "section": "cakupan",
+        "item": null
+      }
+    ],
+    "question_id": "Q027",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "wilayah",
+    "question": "Wilayah mana yang dicakup dataset \"Jumlah Korban Mengungsi Akibat Bencana\"?",
+    "answer": "Provinsi DKJ",
+    "cites": [
+      {
+        "doc_id": "DOC-043",
+        "section": "cakupan",
+        "item": null
+      }
+    ],
+    "question_id": "Q028",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "sumber",
+    "question": "Siapa penerbit dan apa sumber data \"Jumlah Korban Mengungsi Akibat Bencana\"?",
+    "answer": "Penerbit: BPBD Provinsi DKJ; sumber: BPBD Provinsi DKJ / Satu Data Jakarta.",
+    "cites": [
+      {
+        "doc_id": "DOC-043",
+        "section": "sumber",
+        "item": null
+      }
+    ],
+    "question_id": "Q029",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "pembaruan",
+    "question": "Kapan dataset \"Jumlah Korban Mengungsi Akibat Bencana\" diperbarui?",
+    "answer": "Metadata diperbarui 2026-04-17; data diperbarui 2026-04-09.",
+    "cites": [
+      {
+        "doc_id": "DOC-043",
+        "section": "pembaruan",
+        "item": null
+      }
+    ],
+    "question_id": "Q030",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "tag",
+    "question": "Apa kata kunci dataset \"Jumlah Korban Mengungsi Akibat Bencana\"?",
+    "answer": "bencana, dkj, bpbd, data dampak, korban & pengungsi, korban, pengungsi",
+    "cites": [
+      {
+        "doc_id": "DOC-043",
+        "section": "tag",
+        "item": null
+      }
+    ],
+    "question_id": "Q031",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "identitas",
+    "question": "Apa format, kategori, dan tahun data dataset \"Indeks Risiko Bencana\"?",
+    "answer": "Dataset \"Indeks Risiko Bencana\" berformat CSV, kategori Indikator (sub-kategori Indeks Risiko Bencana), tahun data Multi-tahun, wilayah Provinsi DKJ, diterbitkan oleh BPBD Provinsi DKJ. Sifat data: Terbuka.",
+    "cites": [
+      {
+        "doc_id": "DOC-035",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q032",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "deskripsi",
+    "question": "Apa isi dataset \"Indeks Risiko Bencana\"?",
+    "answer": "Data Indeks Risiko Bencana Provinsi DKJ. Indikator komposit tingkat risiko bencana wilayah.",
+    "cites": [
+      {
+        "doc_id": "DOC-035",
+        "section": "deskripsi",
+        "item": null
+      }
+    ],
+    "question_id": "Q033",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "satuan",
+    "question": "Apa satuan dan jenis tabulasi dataset \"Indeks Risiko Bencana\"?",
+    "answer": "Satuan: persen / indeks; jenis tabulasi: Indikator Komposit / Capaian SPM.",
+    "cites": [
+      {
+        "doc_id": "DOC-035",
+        "section": "cakupan",
+        "item": null
+      }
+    ],
+    "question_id": "Q034",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "wilayah",
+    "question": "Wilayah mana yang dicakup dataset \"Indeks Risiko Bencana\"?",
+    "answer": "Provinsi DKJ",
+    "cites": [
+      {
+        "doc_id": "DOC-035",
+        "section": "cakupan",
+        "item": null
+      }
+    ],
+    "question_id": "Q035",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "sumber",
+    "question": "Siapa penerbit dan apa sumber data \"Indeks Risiko Bencana\"?",
+    "answer": "Penerbit: BPBD Provinsi DKJ; sumber: BPBD Provinsi DKJ / Satu Data Jakarta.",
+    "cites": [
+      {
+        "doc_id": "DOC-035",
+        "section": "sumber",
+        "item": null
+      }
+    ],
+    "question_id": "Q036",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "pembaruan",
+    "question": "Kapan dataset \"Indeks Risiko Bencana\" diperbarui?",
+    "answer": "Metadata diperbarui 2026-04-17; data diperbarui 2026-04-09.",
+    "cites": [
+      {
+        "doc_id": "DOC-035",
+        "section": "pembaruan",
+        "item": null
+      }
+    ],
+    "question_id": "Q037",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "tag",
+    "question": "Apa kata kunci dataset \"Indeks Risiko Bencana\"?",
+    "answer": "bencana, dkj, bpbd, indikator, indeks risiko bencana, risiko bencana",
+    "cites": [
+      {
+        "doc_id": "DOC-035",
+        "section": "tag",
+        "item": null
+      }
+    ],
+    "question_id": "Q038",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "lintas_dataset",
+    "question": "Dataset apa saja yang termasuk sub-kategori Banjir?",
+    "answer": "DOC-001 Kejadian Bencana Banjir; DOC-002 Kejadian Bencana Banjir Tahun 2024; DOC-014 Titik Rawan Bencana-Banjir; DOC-018 Data Kejadian Bencana Banjir di Provinsi DKJ Tahun 2020; DOC-016 Data Kejadian Bencana Banjir Tahun 2023; DOC-017 Data Kejadian Bencana Banjir Tahun 2024; DOC-019 Data Kejadian Bencana Banjir; DOC-031 Data Titik Rawan Bencana Banjir Tahun 2022; DOC-032 Data Titik Rawan Bencana Banjir",
+    "cites": [
+      {
+        "doc_id": "DOC-001",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-002",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-014",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-018",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-016",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-017",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-019",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-031",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-032",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q039",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "lintas_dataset",
+    "question": "Dataset apa saja yang termasuk sub-kategori Kebakaran?",
+    "answer": "DOC-003 Kejadian Bencana Kebakaran di Provinsi DKJ; DOC-020 Data Kejadian Bencana Kebakaran di DKJ; DOC-021 Data Kejadian Bencana Kebakaran di Provinsi DKJ Tahun 2024; DOC-022 Data Kejadian Bencana Kebakaran di Provinsi DKJ; DOC-045 Jumlah Objek Bencana Kebakaran Menurut Benda yang Terbakar dan Kota Administrasi di Provinsi DKJ",
+    "cites": [
+      {
+        "doc_id": "DOC-003",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-020",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-021",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-022",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-045",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q040",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "lintas_dataset",
+    "question": "Dataset apa saja yang termasuk sub-kategori Pembinaan & Pelatihan?",
+    "answer": "DOC-006 Pembinaan dan Peningkatan Kapasitas Aparatur, Relawan serta Potensi Masyara; DOC-007 Pembinaan dan Peningkatan Kapasitas Aparatur, Relawan, serta Potensi Masyar; DOC-013 Peningkatan Kapasitas dan Simulasi Penanggulangan Bencana pada Fasilitas Publik; DOC-025 Data Pembinaan dan Peningkatan Kapasitas Aparatur Relawan serta Potensi Masyarakat Lainnya dalam Penyelenggaraan Penanggulangan Bencana (1); DOC-026 Data Pembinaan dan Peningkatan Kapasitas Aparatur Relawan serta Potensi Masyarakat Lainnya dalam Penyelenggaraan Penanggulangan Bencana; DOC-028 Peningkatan Kapasitas dan Simulasi Penanggulangan Bencana pada Fasilitas Publik; DOC-085 Persentase Masyarakat dan Aparatur yang Dilatih dalam Penyelenggaraan Penanggulangan Bencana",
+    "cites": [
+      {
+        "doc_id": "DOC-006",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-007",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-013",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-025",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-026",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-028",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-085",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q041",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "lintas_dataset",
+    "question": "Dataset apa saja yang termasuk sub-kategori Korban & Pengungsi?",
+    "answer": "DOC-008 Pemenuhan Kebutuhan Dasar Korban Bencana; DOC-043 Jumlah Korban Mengungsi Akibat Bencana; DOC-050 Persentase Pemenuhan Kebutuhan Dasar Korban Bencana Lingkup Kabupaten Administrasi Kepulauan Seribu Tahun 2023; DOC-051 Persentase Pemenuhan Kebutuhan Dasar Korban Bencana Lingkup Kabupaten Administrasi Kepulauan Seribu; DOC-062 Jumlah Korban Mengungsi Akibat Bencana",
+    "cites": [
+      {
+        "doc_id": "DOC-008",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-043",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-050",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-051",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-062",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q042",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "lintas_dataset",
+    "question": "Dataset apa saja yang termasuk sub-kategori Pendampingan?",
+    "answer": "DOC-011 Pendampingan Kelurahan Tangguh Bencana; DOC-012 Pendampingan Pascabencana; DOC-027 Data Pendampingan Pasca Bencana Tahun 2022; DOC-052 Persentase Pendampingan yang Dilaksanakan pada Pasca Bencana Tahun 2023",
+    "cites": [
+      {
+        "doc_id": "DOC-011",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-012",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-027",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-052",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q043",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "lintas_dataset",
+    "question": "Dataset apa saja yang termasuk sub-kategori Bencana Alam?",
+    "answer": "DOC-015 Jumlah Korban yang Diakibatkan Bencana Alam Menurut Kabupaten/Kota di Provinsi DKJ; DOC-023 Data Kejadian Bencana di Provinsi DKJ Tahun 2021; DOC-024 Data Kejadian Bencana; DOC-036 Jumlah Bencana yang Terjadi di Provinsi DKJ Menurut Jenis Bencana dan Kabupaten/Kota; DOC-038 Jumlah Korban yang Diakibatkan Bencana Alam Menurut Kabupaten/Kota di Provinsi DKJ; DOC-039 Jumlah Korban yang Diakibatkan Bencana Alam Menurut Kabupaten/Kota di Provinsi DKJ; DOC-040 Jumlah Kerugian Nominal Akibat Bencana Alam; DOC-041 Jumlah Korban yang Diakibatkan Bencana Alam Menurut Kabupaten/Kota di Provinsi DKJ; DOC-042 Jumlah Korban yang Diakibatkan Bencana Alam Menurut Kabupaten/Kota di Provinsi DKJ; DOC-044 Jumlah Korban yang Diakibatkan Bencana Alam Menurut Kabupaten/Kota di Provinsi DKJ",
+    "cites": [
+      {
+        "doc_id": "DOC-015",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-023",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-024",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-036",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-038",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-039",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-040",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-041",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-042",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-044",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q044",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "lintas_dataset",
+    "question": "Dataset apa saja yang termasuk sub-kategori Risiko Bencana?",
+    "answer": "DOC-037 Jumlah Dokumen Kajian Risiko Bencana; DOC-065 Kajian Risiko Bencana Nasional Provinsi DKJ 2022–2026; DOC-066 Kajian Risiko Bencana Provinsi DKJ Tahun 2022-2026",
+    "cites": [
+      {
+        "doc_id": "DOC-037",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-065",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-066",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q045",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "lintas_dataset",
+    "question": "Dataset apa saja yang termasuk sub-kategori Kerusakan & Kerugian?",
+    "answer": "DOC-047 Kerusakan pada Infrastruktur Vital dan Jumlah Gangguan pada Layanan Dasar Akibat Bencana; DOC-048 Nilai Kerugian dan Kerusakan Sektor Ekonomi Akibat Bencana; DOC-067 Kerusakan pada Infrastruktur Vital dan Jumlah Gangguan pada Layanan Dasar Akibat Bencana; DOC-068 Nilai Kerugian dan Kerusakan Sektor Ekonomi Akibat Bencana",
+    "cites": [
+      {
+        "doc_id": "DOC-047",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-048",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-067",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-068",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q046",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "lintas_dataset",
+    "question": "Dataset apa saja yang termasuk sub-kategori Kejadian Bencana?",
+    "answer": "DOC-073 Infografis Kejadian Bencana Provinsi DKJ Tahun 2020; DOC-074 Infografis Kejadian Bencana Provinsi DKJ Tahun 2021; DOC-075 Infografis Kejadian Bencana Provinsi DKJ Tahun 2022; DOC-076 Infografis Kejadian Bencana Provinsi DKJ Tahun 2023; DOC-077 Infografis Kejadian Bencana Provinsi DKJ Tahun 2024; DOC-078 Infografis Kejadian Bencana Provinsi DKJ Tahun 2025",
+    "cites": [
+      {
+        "doc_id": "DOC-073",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-074",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-075",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-076",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-077",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-078",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q047",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "lintas_dataset",
+    "question": "Dataset apa saja yang termasuk sub-kategori LKIP BPBD?",
+    "answer": "DOC-080 Laporan Kinerja Instansi Pemerintah (LKIP) BPBD Provinsi DKJ Tahun 2020; DOC-081 Laporan Kinerja Instansi Pemerintah (LKIP) BPBD Provinsi DKJ Tahun 2021; DOC-082 Laporan Kinerja Instansi Pemerintah (LKIP) BPBD Provinsi DKJ Tahun 2022; DOC-083 Laporan Kinerja Instansi Pemerintah (LKIP) BPBD Provinsi DKJ Tahun 2024; DOC-084 Laporan Kinerja Instansi Pemerintah (LKIP) BPBD Provinsi DKJ Tahun 2025; DOC-069 Pemutakhiran Juli Laporan Kinerja BPBD Provinsi DKJ Tahun 2025",
+    "cites": [
+      {
+        "doc_id": "DOC-080",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-081",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-082",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-083",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-084",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-069",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q048",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "rekap",
+    "question": "Berapa jumlah dataset berkategori Data Kejadian?",
+    "answer": "34 dataset.",
+    "cites": [
+      {
+        "doc_id": "DOC-001",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-002",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-003",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-004",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-014",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-015",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-018",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-016",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-017",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-019",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q049",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "rekap",
+    "question": "Berapa jumlah dataset berkategori Data Kelembagaan?",
+    "answer": "1 dataset.",
+    "cites": [
+      {
+        "doc_id": "DOC-005",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q050",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "rekap",
+    "question": "Berapa jumlah dataset berkategori Data Kapasitas?",
+    "answer": "13 dataset.",
+    "cites": [
+      {
+        "doc_id": "DOC-006",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-007",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-011",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-012",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-013",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-025",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-026",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-027",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-028",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-029",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q051",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "rekap",
+    "question": "Berapa jumlah dataset berkategori Data Dampak?",
+    "answer": "10 dataset.",
+    "cites": [
+      {
+        "doc_id": "DOC-008",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-043",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-047",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-048",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-050",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-051",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-062",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-064",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-067",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-068",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q052",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "rekap",
+    "question": "Berapa jumlah dataset berkategori Data Respons?",
+    "answer": "2 dataset.",
+    "cites": [
+      {
+        "doc_id": "DOC-009",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-010",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q053",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "rekap",
+    "question": "Berapa jumlah dataset berkategori Indikator?",
+    "answer": "5 dataset.",
+    "cites": [
+      {
+        "doc_id": "DOC-033",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-034",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-035",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-049",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-070",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q054",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "rekap",
+    "question": "Berapa jumlah dataset berkategori Kajian?",
+    "answer": "4 dataset.",
+    "cites": [
+      {
+        "doc_id": "DOC-037",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-065",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-066",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-079",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q055",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "rekap",
+    "question": "Berapa jumlah dataset berkategori Data Potensi?",
+    "answer": "2 dataset.",
+    "cites": [
+      {
+        "doc_id": "DOC-046",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-086",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q056",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "rekap",
+    "question": "Berapa jumlah dataset berkategori Infografis?",
+    "answer": "6 dataset.",
+    "cites": [
+      {
+        "doc_id": "DOC-073",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-074",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-075",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-076",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-077",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-078",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q057",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "rekap",
+    "question": "Berapa jumlah dataset berkategori Data Kebencanaan?",
+    "answer": "1 dataset.",
+    "cites": [
+      {
+        "doc_id": "DOC-058",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q058",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "rekap",
+    "question": "Berapa jumlah dataset berkategori Laporan Kinerja?",
+    "answer": "6 dataset.",
+    "cites": [
+      {
+        "doc_id": "DOC-080",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-081",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-082",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-083",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-084",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-069",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q059",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "rekap",
+    "question": "Berapa jumlah dataset berkategori Rencana?",
+    "answer": "3 dataset.",
+    "cites": [
+      {
+        "doc_id": "DOC-087",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-071",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-072",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q060",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "rekap",
+    "question": "Berapa dataset berformat Excel?",
+    "answer": "30 dataset.",
+    "cites": [
+      {
+        "doc_id": "DOC-001",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-002",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-003",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-004",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-005",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-006",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-007",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-008",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-009",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-010",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q061",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "rekap",
+    "question": "Berapa dataset berformat CSV?",
+    "answer": "38 dataset.",
+    "cites": [
+      {
+        "doc_id": "DOC-015",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-018",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-016",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-019",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-023",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-020",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-021",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-022",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-024",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-025",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q062",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "rekap",
+    "question": "Berapa dataset berformat PDF?",
+    "answer": "19 dataset.",
+    "cites": [
+      {
+        "doc_id": "DOC-073",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-074",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-075",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-076",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-077",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-078",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-065",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-066",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-079",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-080",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q063",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "lintas_dataset",
+    "question": "Tahun berapa saja infografis kejadian bencana tersedia?",
+    "answer": "2020, 2021, 2022, 2023, 2024, 2025",
+    "cites": [
+      {
+        "doc_id": "DOC-073",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-074",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-075",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-076",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-077",
+        "section": "identitas",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-078",
+        "section": "identitas",
+        "item": null
+      }
+    ],
+    "question_id": "Q064",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "lintas_dataset",
+    "question": "Dataset apa saja yang mencakup bencana Banjir?",
+    "answer": "Kejadian Bencana Banjir; Kejadian Bencana Banjir Tahun 2024; Titik Rawan Bencana-Banjir; Data Kejadian Bencana Banjir di Provinsi DKJ Tahun 2020; Data Kejadian Bencana Banjir Tahun 2023; Data Kejadian Bencana Banjir Tahun 2024; Data Kejadian Bencana Banjir; Data Titik Rawan Bencana Banjir Tahun 2022",
+    "cites": [
+      {
+        "doc_id": "DOC-001",
+        "section": "bencana",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-002",
+        "section": "bencana",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-014",
+        "section": "bencana",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-018",
+        "section": "bencana",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-016",
+        "section": "bencana",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-017",
+        "section": "bencana",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-019",
+        "section": "bencana",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-031",
+        "section": "bencana",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-032",
+        "section": "bencana",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-071",
+        "section": "bencana",
+        "item": null
+      }
+    ],
+    "question_id": "Q065",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "lintas_dataset",
+    "question": "Dataset apa saja yang mencakup bencana Kebakaran?",
+    "answer": "Kejadian Bencana Kebakaran di Provinsi DKJ; Data Kejadian Bencana Kebakaran di DKJ; Data Kejadian Bencana Kebakaran di Provinsi DKJ Tahun 2024; Data Kejadian Bencana Kebakaran di Provinsi DKJ; Jumlah Objek Bencana Kebakaran Menurut Benda yang Terbakar dan Kota Administrasi di Provinsi DKJ",
+    "cites": [
+      {
+        "doc_id": "DOC-003",
+        "section": "bencana",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-020",
+        "section": "bencana",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-021",
+        "section": "bencana",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-022",
+        "section": "bencana",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-045",
+        "section": "bencana",
+        "item": null
+      }
+    ],
+    "question_id": "Q066",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "lintas_dataset",
+    "question": "Dataset apa saja yang mencakup bencana Pohon Tumbang?",
+    "answer": "Kejadian Pohon Tumbang",
+    "cites": [
+      {
+        "doc_id": "DOC-004",
+        "section": "bencana",
+        "item": null
+      }
+    ],
+    "question_id": "Q067",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  },
+  {
+    "category": "lintas_dataset",
+    "question": "Dataset apa saja yang mencakup bencana Krisis Kesehatan?",
+    "answer": "Jumlah Warga Negara Terdampak Krisis Kesehatan Akibat Bencana danatau Berpotensi Bencana di Provinsi yang Mendapatkan Layanan Kesehatan; Jumlah Warga Negara Terdampak Krisis Kesehatan Akibat Bencana dan/atau Berpotensi Bencana di Provinsi DKJ",
+    "cites": [
+      {
+        "doc_id": "DOC-046",
+        "section": "bencana",
+        "item": null
+      },
+      {
+        "doc_id": "DOC-064",
+        "section": "bencana",
+        "item": null
+      }
+    ],
+    "question_id": "Q068",
+    "status": "draft",
+    "validated_by": null,
+    "source": "metadata_bencana_dkj"
+  }
+]

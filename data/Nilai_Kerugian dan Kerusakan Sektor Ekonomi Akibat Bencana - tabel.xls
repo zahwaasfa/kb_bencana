@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+  </head >
+  <body>
+    
+    <table>
+      <thead>
+        <tr><th><b>periode_data</b></th><th><b>wilayah</b></th><th><b>kecamatan</b></th><th><b>kelurahan</b></th><th><b>jenis_bencana</b></th><th><b>nilai_kerusakan</b></th><th><b>nilai_kerugian</b></th><th><b>total</b></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KALIDERES</td><td>PEGADUNGAN</td><td>BANJIR</td><td>24850000</td><td>6000000</td><td>30850000</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>RAWA TERATE</td><td>BANJIR</td><td>45200000</td><td>4299999</td><td>49499999</td></tr>
+        <tr><td>2025</td><td>KOTA ADM. JAKARTA BARAT</td><td>KALIDERES</td><td>TEGAL ALUR</td><td>BANJIR</td><td>415065000</td><td>37999996</td><td>453064996</td></tr>
+      </tbody>
+    </table>
+  
+  </body>
+</html >

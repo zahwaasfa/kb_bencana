@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+  </head >
+  <body>
+    
+    <table>
+      <thead>
+        <tr><th><b>periode_data</b></th><th><b>nama_platform</b></th><th><b>jumlah_kunjungan</b></th><th><b>jumlah_rata_rata_kunjungan</b></th><th><b>persentase</b></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>2024</td><td>INSTAGRAM</td><td>1135822</td><td>94652</td><td>8.33</td></tr>
+        <tr><td>2024</td><td>FACEBOOK</td><td>497304</td><td>41442</td><td>8.33</td></tr>
+        <tr><td>2024</td><td>WEBSITE</td><td>203151</td><td>3833</td><td>1.89</td></tr>
+        <tr><td>2024</td><td>X</td><td>3720088</td><td>310007</td><td>8.33</td></tr>
+        <tr><td>2025</td><td>FACEBOOK</td><td>51000</td><td>4250</td><td>1.26</td></tr>
+        <tr><td>2025</td><td>INSTAGRAM</td><td>1200000</td><td>100000</td><td>29.76</td></tr>
+        <tr><td>2025</td><td>TIKTOK</td><td>36734</td><td>3061</td><td>0.91</td></tr>
+        <tr><td>2025</td><td>WEBSITE</td><td>1747497</td><td>145625</td><td>43.34</td></tr>
+        <tr><td>2025</td><td>YOUTUBE</td><td>997000</td><td>83083</td><td>24.73</td></tr>
+      </tbody>
+    </table>
+  
+  </body>
+</html >
